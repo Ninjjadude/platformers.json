@@ -1,0 +1,89 @@
+{
+  "reponame":"Platforming games",
+  "repologo":"https://imgur.com/a/pkQjC.jpg",
+  "repoauthor":"Ninjjadude",
+  "repodesc":"Various platformers for the playing",
+  "categories": [{
+      "categoryname": "Super Mario Bros.",
+      "games": [{
+        "name":"Super Mario Bros.",
+        "link":"https://www.dropbox.com/s/bk1v16ad26g5uv7/Super%20Mario%20Bros..nes?dl=1",
+        "boxart":"https://vignette.wikia.nocookie.net/nintendo/images/3/3d/Super_Mario_Bros._%28NA%29.png/revision/latest?cb=20120516222518&path-prefix=en.png",
+        "system": "NES"
+      },
+      {    
+        "name":"Super Mario Bros. 2",
+        "link":"https://www.dropbox.com/s/n8k2nl1zy6y7ffu/Super%20Mario%20Bros%202.nes?dl=1",
+        "boxart":"https://vignette.wikia.nocookie.net/mario/images/3/30/SMB2_box_art.png/revision/latest?cb=20120609143907.jpg",
+        "system": "NES"
+      },
+      {
+        "name":"Super Mario Bros. 3",
+        "link":"https://www.dropbox.com/s/5sweopp2z96zztk/Super%20Mario%20Bros.%203.nes?dl=1",
+        "boxart":"https://www.technobuffalo.com/wp-content/uploads/2013/12/Super-Mario-Bros-3.jpg",
+        "system": "NES"
+        },
+        {
+        "name":"Super Mario Land",
+        "link":"https://www.dropbox.com/s/xzp5hysay5ml6f3/Super_Mario_Land_JUE_V1.1_.gb?dl=1",
+        "boxart":"https://vignette.wikia.nocookie.net/mario/images/1/1f/Super_Mario_Land_-_North_American_Boxart.png/revision/latest?cb=20120325013253.jpg",
+        "system": "GB"
+        }
+        {
+    "categoryname":"Mega Man",
+    "games":[
+    {
+    "name":"Mega Man 1",
+    "link":"https://www.dropbox.com/s/rbexj2u2phmw54j/Mega_Man_U.nes?dl=1",
+    "boxart":"https://venturebeat.com/wp-content/uploads/2013/03/megamanbox.jpg?strip=all.jpg",
+    "system":"NES"
+    },
+    {
+    "name":"Mega Man 2",
+    "link":"https://www.dropbox.com/s/g7wjqgfzgb2mqvs/Mega_Man_2_U.nes?dl=1",
+    "boxart":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZnBzWtLqywau1E5FZs8io8oVqlX8FUNgX1OZ09DYR7_iADFM.jpg",
+    "system":"NES"
+    },
+    {
+    "name":"Mega Man 3",
+    "link":"https://www.dropbox.com/s/3k5teekig7l57ze/Mega_Man_3_U_.nes?dl=1",
+    "boxart":"https://s-media-cache-ak0.pinimg.com/originals/7a/de/bb/7adebbb8e5b535a9f746ce2e05dcc401.jpg",
+    "system":"GBC"
+    },
+    {
+    "name":"Mega Man 4",
+    "link":"https://www.dropbox.com/s/n24mgtlb0bdm4o4/Mega_Man_4_U.nes?dl=1",
+    "boxart":"https://upload.wikimedia.org/wikipedia/ru/thumb/6/63/Mega_Man_4_box_art.jpg/250px-Mega_Man_4_box_art.jpg",
+    "system":"NES"
+    },
+    {
+    "name":"Mega Man 5",
+    "link":"https://www.dropbox.com/s/1pjzpux9nv5lamx/Mega_Man_5_U.nes?dl=1",
+    "boxart":"https://venturebeat.com/wp-content/uploads/2013/03/mmbox5.png?strip=all.jpg",
+    "system":"NES"
+    },
+    {
+    "name":"Mega Man 6",
+    "link":"https://www.dropbox.com/s/gfq42v3ztipfvao/Mega_Man_6_U.nes?dl=1",
+    "boxart":"https://upload.wikimedia.org/wikipedia/en/1/17/Megaman6_box.jpg",
+    "system":"NES"
+        },
+           {
+    "categoryname":"Misc.",
+    "games":[
+    {
+    "name":"Yoshi's Island",
+    "link":"https://www.dropbox.com/s/oohllk3dvjaowot/Super_Mario_Advance_3_-_Yoshis_Island_U_.gba?dl=1",
+    "boxart":"https://vignette.wikia.nocookie.net/mario/images/b/b6/Yoshi%27s_Island_-_Super_Mario_Advance_3_Boxart.png/revision/latest?cb=20120321214855.jpg",
+    "system":"GBA"
+    },
+    {
+    "name":"Wario Land",
+    "link":"https://www.dropbox.com/s/4kgda0vi3d8ysfb/Wario_Land_-_Super_Mario_Land_3_World.gb?dl=1",
+    "boxart":"https://vignette.wikia.nocookie.net/mario/images/2/22/SML3WarioLand.jpg/revision/latest?cb=20110517231054.jpg",
+    "system":"GB"
+    },
+      ]
+    }
+  ]
+}
